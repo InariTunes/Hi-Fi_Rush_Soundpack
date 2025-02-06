@@ -1,7 +1,7 @@
 {
-  "name": "Pack Name",
-  "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "name": "The World Ends With You Soundpack",
+  "description": "A UI soundpack using the sounds from TWEWY Final Remix belonging to Square Enix. Ripper unknown.",
+  "author": "strawberrisoda",
   "version": "v1.0",
   "manifest_version": 2,
   "music": false,
